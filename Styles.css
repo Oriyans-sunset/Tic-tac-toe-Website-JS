@@ -1,0 +1,36 @@
+body{
+
+  background-image: linear-gradient(to right, rgb(5, 225, 246), rgb(24, 89, 200));
+}
+h1{
+  margin-left: 13px;
+  font-family: cursive;
+  display: inline;
+}
+.board{
+  background-color: black;
+  padding: 15px;
+  color: white;
+  width: 26.7%;
+  margin: 0 auto;
+  margin-top: 15%;
+}
+#reset_button{
+  background-color: white;
+  padding: 5px 5px;
+  margin-right: 20px;
+  margin-top: 7px;
+  display: inline;
+  float: right;
+}
+button{
+  background-color: white;
+  font-size: 20px;
+  padding: 20px 30px 20px 30px;
+}
+.button{
+  font-family: Georgia monospace cursive arial ;
+  font-weight: bold;
+  color: white;
+  margin: 17px 10px 10px 10px;
+}
